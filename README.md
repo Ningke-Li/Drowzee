@@ -12,10 +12,10 @@ This is the datasets and source code for OOPSLA-24 paper 'Drowzee: Metamorphic T
 ```pip install -r requirements.txt```
 
 ### Java Prerequisites
-- Java 8 or higher. The command `java -version` should complete successfully with a line like: java version "1.8.0_92".
+- Java 8 or higher. The command `java -version` should complete successfully with a line like: `java version "1.8.0_92"`.
 
 ### Hardware Requirements
-- To run Llama2 series and Mistral series models locally, we apply (at least) two NVIDIA A100 PCIe 80GB GPU.
+- To run Llama2 series and Mistral series models locally, we apply (at least) two NVIDIA A100 PCIe 80GB GPUs.
 
 ### To Interact with LLMs
 - To interact with GPTs, we need an OPENAI API key (replace the `your_api_key` part in the `OpenAI Interact`)
@@ -32,7 +32,7 @@ This is the datasets and source code for OOPSLA-24 paper 'Drowzee: Metamorphic T
         "stream": False
     }).json()
     ```
-- There are also online sevice for open-source LLMs like [DeepInfra](https://deepinfra.com/models). We can use OPENAI python library to generate responses.
+- There are also online services for open-source LLMs like [DeepInfra](https://deepinfra.com/models). We can use the OPENAI python library to generate responses.
 
 ### To Analyze Responses
 - Download [StanfordCoreNLP](https://stanfordnlp.github.io/CoreNLP/download.html) and unzip the file.
@@ -59,7 +59,7 @@ Each item in the dataset follows the structure below:
 
 * `object`: The secondary entity or concept linked to the subject by the predicate.
 
-* `description`: The first sentence from Wikipedia page of `subject` and `object`.
+* `description`: The first sentence from the Wikipedia page of `subject` and `object`.
 
 * `question`: The question generated according to the derived fact in this test case.
 
@@ -68,6 +68,7 @@ Each item in the dataset follows the structure below:
 * `evidence`: A list of supporting triples that are used to derive facts in this test case.
 
 ## Code Structure
+```
 .
 ├── 0.fact_extraction
 │   ├── category
@@ -98,10 +99,11 @@ Each item in the dataset follows the structure below:
 └── utils
     ├── file_ops.py
     └── wiki_property_cat_v1.xlsx
+```
 
 ## Acknowledgements
 
-This project makes use of the following open source projects:
+This project makes use of the following open-source projects:
 
 - [PySwip](https://github.com/yuce/pyswip): PySwip is a Python - SWI-Prolog bridge enabling to query SWI-Prolog in your Python programs.
 - [vLLM](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs.
