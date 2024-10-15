@@ -15,7 +15,7 @@ This is the datasets and source code for OOPSLA-24 paper 'Drowzee: Metamorphic T
 - Java 8 or higher. The command `java -version` should complete successfully with a line like: java version "1.8.0_92".
 
 ### Hardware Requirements
-- To run Llama2 series and Mistral series models locally, we apply (at least)two NVIDIA A100 PCIe 80GB GPU.
+- To run Llama2 series and Mistral series models locally, we apply (at least) two NVIDIA A100 PCIe 80GB GPU.
 
 ### To Interact with LLMs
 - To interact with GPTs, we need an OPENAI API key (replace the `your_api_key` part in the `OpenAI Interact`)
@@ -68,7 +68,36 @@ Each item in the dataset follows the structure below:
 * `evidence`: A list of supporting triples that are used to derive facts in this test case.
 
 ## Code Structure
-
+.
+├── 0.fact_extraction
+│   ├── category
+│   ├── get_wiki_cat_id.py
+│   ├── transitive_entity_extract.py
+│   ├── transitive_pl_build.py
+│   └── wiki_pl_build.py
+├── 1.logical_reasoning
+│   ├── prolog_inference.py
+│   ├── prolog_rules
+│   │   ├── composite_problem_dict.json
+│   │   ├── composite_rules.pl
+│   │   ├── inverse_problem_dict.json
+│   │   ├── inverse_rules.pl
+│   │   ├── negation_problem_dict.json
+│   │   ├── negation_rules.pl
+│   │   ├── transitive_problem_dict.json
+│   │   └── transitive_rules.pl
+│   └── rule_generation.py
+├── 2.benchmark_construction
+│   ├── benchmark_generation.py
+│   └── question_generation.py
+├── 3.llm_interaction
+│   ├── local_interaction.py
+│   └── openai_interaction.py
+├── 4.response_evaluation
+│   └── answer_test.py
+└── utils
+    ├── file_ops.py
+    └── wiki_property_cat_v1.xlsx
 
 ## Acknowledgements
 
