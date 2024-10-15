@@ -93,7 +93,8 @@ Each item in the dataset follows the structure below:
 │   └── question_generation.py
 ├── 3.llm_interaction
 │   ├── local_interaction.py
-│   └── openai_interaction.py
+│   ├── openai_interaction.py
+│   └── test_vllm.py
 ├── 4.response_evaluation
 │   └── answer_test.py
 └── utils
