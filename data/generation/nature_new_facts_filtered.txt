@@ -1,0 +1,244 @@
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2 Pallas", "predicate": "same_minor_planet_group", "object": "253 Mathilde"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "Ox", "predicate": "preceded_by", "object": "Dipper"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4179 Toutatis", "predicate": "same_minor_planet_group", "object": "2004 TN1"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "16 Psyche", "predicate": "same_minor_planet_group", "object": "253 Mathilde"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'16_Psyche'", "predicate": "not_parent_body", "object": "'Uranus'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2011_KW48'", "predicate": "not_parent_body", "object": "'Uranus'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2014_RC'", "predicate": "not_parent_body", "object": "'Uranus'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "16 Psyche", "predicate": "same_minor_planet_group", "object": "3 Juno"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4 Vesta", "predicate": "same_minor_planet_group", "object": "3 Juno"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "17 Thetis", "predicate": "preceded_by", "object": "16 Psyche"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'_144908__2004_YH32'", "predicate": "not_parent_body", "object": "'Saturn'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4 Vesta", "predicate": "same_minor_planet_group", "object": "3753 Cruithne"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4179 Toutatis", "predicate": "same_minor_planet_group", "object": "2 Pallas"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "243 Ida", "predicate": "same_minor_planet_group", "object": "52 Europa"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "243 Ida", "predicate": "same_minor_planet_group", "object": "2 Pallas"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4179 Toutatis", "predicate": "same_asteroid_spectral_type", "object": "243 Ida"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "243 Ida", "predicate": "same_minor_planet_group", "object": "3 Juno"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "Pluto", "predicate": "same_minor_planet_group", "object": "486958 Arrokoth"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2013 LX28", "predicate": "same_minor_planet_group", "object": "2004 TN1"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2013 LX28", "predicate": "same_minor_planet_group", "object": "4179 Toutatis"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "(89959) 2002 NT7", "predicate": "same_minor_planet_group", "object": "2013 LX28"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "(89959) 2002 NT7", "predicate": "same_minor_planet_group", "object": "2012 FN"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4 Vesta", "predicate": "same_minor_planet_group", "object": "2060 Chiron"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'253_Mathilde'", "predicate": "not_parent_body", "object": "'617_Patroclus'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3 Juno", "predicate": "same_asteroid_spectral_type", "object": "4179 Toutatis"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "253 Mathilde", "predicate": "same_minor_planet_group", "object": "4 Vesta"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4769 Castalia", "predicate": "same_minor_planet_group", "object": "2012 TC4"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'_89959__2002_NT7'", "predicate": "not_parent_body", "object": "'90482_Orcus'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'243_Ida'", "predicate": "not_parent_body", "object": "'KOI_1430'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "(89959) 2002 NT7", "predicate": "same_minor_planet_group", "object": "2012 TC4"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3753 Cruithne", "predicate": "same_minor_planet_group", "object": "2 Pallas"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3 Juno", "predicate": "same_minor_planet_group", "object": "4179 Toutatis"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4769 Castalia", "predicate": "same_minor_planet_group", "object": "2 Pallas"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "16 Psyche", "predicate": "same_minor_planet_group", "object": "2 Pallas"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3753 Cruithne", "predicate": "same_minor_planet_group", "object": "16 Psyche"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2012 FN", "predicate": "same_minor_planet_group", "object": "4769 Castalia"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2013 LX28", "predicate": "same_minor_planet_group", "object": "4769 Castalia"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4 Vesta", "predicate": "same_minor_planet_group", "object": "52 Europa"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "(144909) 2004 YO33", "predicate": "preceded_by", "object": "(144908) 2004 YH32"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "52 Europa", "predicate": "same_minor_planet_group", "object": "253 Mathilde"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2 Pallas", "predicate": "same_minor_planet_group", "object": "3753 Cruithne"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4769 Castalia", "predicate": "same_minor_planet_group", "object": "253 Mathilde"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2013 LX28", "predicate": "same_minor_planet_group", "object": "2012 TC4"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "(82158) 2001 FP185", "predicate": "same_minor_planet_group", "object": "486958 Arrokoth"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2 Pallas", "predicate": "same_minor_planet_group", "object": "243 Ida"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3 Juno", "predicate": "same_minor_planet_group", "object": "2 Pallas"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4 Vesta", "predicate": "same_minor_planet_group", "object": "16 Psyche"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "243 Ida", "predicate": "same_asteroid_spectral_type", "object": "4179 Toutatis"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2060 Chiron", "predicate": "same_minor_planet_group", "object": "4 Vesta"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "2061 Anza", "predicate": "preceded_by", "object": "2060 Chiron"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'_82158__2001_FP185'", "predicate": "not_parent_body", "object": "'Haumea'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2012_TC4'", "predicate": "not_parent_body", "object": "'617_Patroclus'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2014_OL339'", "predicate": "not_parent_body", "object": "'Saturn'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'243_Ida'", "predicate": "not_parent_body", "object": "'Neptune'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3753 Cruithne", "predicate": "same_minor_planet_group", "object": "253 Mathilde"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4769 Castalia", "predicate": "same_minor_planet_group", "object": "2060 Chiron"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "243 Ida", "predicate": "same_minor_planet_group", "object": "4 Vesta"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "52 Europa", "predicate": "same_minor_planet_group", "object": "2 Pallas"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2060 Chiron", "predicate": "same_minor_planet_group", "object": "2 Pallas"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "253 Mathilde", "predicate": "same_minor_planet_group", "object": "4769 Castalia"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4179 Toutatis", "predicate": "same_asteroid_spectral_type", "object": "3 Juno"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3753 Cruithne", "predicate": "same_minor_planet_group", "object": "4179 Toutatis"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4769 Castalia", "predicate": "same_minor_planet_group", "object": "3753 Cruithne"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'_82158__2001_FP185'", "predicate": "not_parent_body", "object": "'Uranus'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3 Juno", "predicate": "same_asteroid_spectral_type", "object": "243 Ida"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3 Juno", "predicate": "same_minor_planet_group", "object": "3753 Cruithne"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4769 Castalia", "predicate": "same_minor_planet_group", "object": "2012 FN"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "243 Ida", "predicate": "same_minor_planet_group", "object": "3753 Cruithne"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2_Pallas'", "predicate": "not_parent_body", "object": "'Uranus'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2012 TC4", "predicate": "same_minor_planet_group", "object": "2004 TN1"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'243_Ida'", "predicate": "not_parent_body", "object": "'Jupiter'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3 Juno", "predicate": "same_minor_planet_group", "object": "52 Europa"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4179 Toutatis", "predicate": "same_minor_planet_group", "object": "16 Psyche"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4179 Toutatis", "predicate": "same_minor_planet_group", "object": "2012 FN"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4 Vesta", "predicate": "same_minor_planet_group", "object": "4769 Castalia"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2012 TC4", "predicate": "same_minor_planet_group", "object": "2013 LX28"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "16 Psyche", "predicate": "same_minor_planet_group", "object": "4179 Toutatis"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "253 Mathilde", "predicate": "same_minor_planet_group", "object": "4179 Toutatis"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2011_KW48'", "predicate": "not_parent_body", "object": "'Pluto'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "3 Juno", "predicate": "preceded_by", "object": "2 Pallas"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'253_Mathilde'", "predicate": "not_parent_body", "object": "'Neptune'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2012 TC4", "predicate": "same_minor_planet_group", "object": "2012 FN"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "52 Europa", "predicate": "same_minor_planet_group", "object": "16 Psyche"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "52 Europa", "predicate": "same_asteroid_spectral_type", "object": "2060 Chiron"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3 Juno", "predicate": "same_minor_planet_group", "object": "4769 Castalia"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "52 Europa", "predicate": "same_minor_planet_group", "object": "4769 Castalia"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'16_Psyche'", "predicate": "not_parent_body", "object": "'KOI_1430'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4769 Castalia", "predicate": "same_minor_planet_group", "object": "2013 LX28"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2 Pallas", "predicate": "same_minor_planet_group", "object": "16 Psyche"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "253 Mathilde", "predicate": "same_minor_planet_group", "object": "2060 Chiron"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "243 Ida", "predicate": "same_minor_planet_group", "object": "16 Psyche"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2060_Chiron'", "predicate": "not_parent_body", "object": "'Pluto'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4179 Toutatis", "predicate": "same_minor_planet_group", "object": "4 Vesta"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "243 Ida", "predicate": "same_minor_planet_group", "object": "253 Mathilde"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2060 Chiron", "predicate": "same_minor_planet_group", "object": "243 Ida"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4 Vesta", "predicate": "same_minor_planet_group", "object": "243 Ida"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "253 Mathilde", "predicate": "same_minor_planet_group", "object": "3753 Cruithne"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "(134341) 1979 MA", "predicate": "preceded_by", "object": "Pluto"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4 Vesta", "predicate": "same_minor_planet_group", "object": "2 Pallas"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4179 Toutatis", "predicate": "same_minor_planet_group", "object": "2012 TC4"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "52 Europa", "predicate": "same_minor_planet_group", "object": "3 Juno"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3 Juno", "predicate": "same_minor_planet_group", "object": "2060 Chiron"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "(89960) 2002 ND35", "predicate": "preceded_by", "object": "(89959) 2002 NT7"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'_144908__2004_YH32'", "predicate": "not_parent_body", "object": "'Haumea'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2 Pallas", "predicate": "same_asteroid_spectral_type", "object": "2060 Chiron"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4179 Toutatis", "predicate": "same_minor_planet_group", "object": "2013 LX28"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "243 Ida", "predicate": "same_minor_planet_group", "object": "4769 Castalia"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "4 Vesta", "predicate": "preceded_by", "object": "3 Juno"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'16_Psyche'", "predicate": "not_parent_body", "object": "'Jupiter'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4769 Castalia", "predicate": "same_minor_planet_group", "object": "3 Juno"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2_Pallas'", "predicate": "not_parent_body", "object": "'Pluto'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "(82158) 2001 FP185", "predicate": "same_minor_planet_group", "object": "Pluto"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'_82158__2001_FP185'", "predicate": "not_parent_body", "object": "'Pluto'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'_89959__2002_NT7'", "predicate": "not_parent_body", "object": "'KOI_1430'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "16 Psyche", "predicate": "same_minor_planet_group", "object": "3753 Cruithne"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4179 Toutatis", "predicate": "same_minor_planet_group", "object": "3753 Cruithne"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "Phanerozoic", "predicate": "preceded_by", "object": "Proterozoic"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2060 Chiron", "predicate": "same_minor_planet_group", "object": "253 Mathilde"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "243 Ida", "predicate": "same_asteroid_spectral_type", "object": "3 Juno"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2 Pallas", "predicate": "same_minor_planet_group", "object": "4179 Toutatis"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2060_Chiron'", "predicate": "not_parent_body", "object": "'Jupiter'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3753 Cruithne", "predicate": "same_minor_planet_group", "object": "3 Juno"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "Season of the Inundation", "predicate": "preceded_by", "object": "Season of the Harvest"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "(82159) 2001 FY192", "predicate": "preceded_by", "object": "(82158) 2001 FP185"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "5 Astraea", "predicate": "preceded_by", "object": "4 Vesta"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "243 Ida", "predicate": "same_minor_planet_group", "object": "2060 Chiron"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3 Juno", "predicate": "same_minor_planet_group", "object": "243 Ida"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4769 Castalia", "predicate": "same_minor_planet_group", "object": "243 Ida"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "(89959) 2002 NT7", "predicate": "same_minor_planet_group", "object": "2004 TN1"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4179 Toutatis", "predicate": "same_minor_planet_group", "object": "243 Ida"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "52 Europa", "predicate": "same_minor_planet_group", "object": "243 Ida"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "Luna 12", "predicate": "preceded_by", "object": "Luna 11"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "16 Psyche", "predicate": "same_minor_planet_group", "object": "4769 Castalia"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2012 FN", "predicate": "same_minor_planet_group", "object": "2004 TN1"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2014_RC'", "predicate": "not_parent_body", "object": "'Neptune'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "16 Psyche", "predicate": "same_minor_planet_group", "object": "2060 Chiron"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2004 TN1", "predicate": "same_minor_planet_group", "object": "2013 LX28"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2 Pallas", "predicate": "same_minor_planet_group", "object": "2060 Chiron"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2 Pallas", "predicate": "same_minor_planet_group", "object": "4 Vesta"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "(89959) 2002 NT7", "predicate": "same_minor_planet_group", "object": "4179 Toutatis"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "253 Mathilde", "predicate": "same_minor_planet_group", "object": "243 Ida"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2_Pallas'", "predicate": "not_parent_body", "object": "'Haumea'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "Luna 11", "predicate": "preceded_by", "object": "Luna 10"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "Archaean", "predicate": "preceded_by", "object": "Hadean"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2012 FN", "predicate": "same_minor_planet_group", "object": "4179 Toutatis"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "16 Psyche", "predicate": "same_minor_planet_group", "object": "52 Europa"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3753 Cruithne", "predicate": "same_minor_planet_group", "object": "4769 Castalia"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2 Pallas", "predicate": "same_minor_planet_group", "object": "4769 Castalia"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "254 Augusta", "predicate": "preceded_by", "object": "253 Mathilde"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "(89959) 2002 NT7", "predicate": "same_minor_planet_group", "object": "4769 Castalia"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "52 Europa", "predicate": "same_minor_planet_group", "object": "2060 Chiron"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'_144908__2004_YH32'", "predicate": "not_parent_body", "object": "'Neptune'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2004 TN1", "predicate": "same_minor_planet_group", "object": "4769 Castalia"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "4770 Lane", "predicate": "preceded_by", "object": "4769 Castalia"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "253 Mathilde", "predicate": "same_minor_planet_group", "object": "3 Juno"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'_82158__2001_FP185'", "predicate": "not_parent_body", "object": "'90482_Orcus'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4179 Toutatis", "predicate": "same_minor_planet_group", "object": "4769 Castalia"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2014_RC'", "predicate": "not_parent_body", "object": "'KOI_1430'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "16 Psyche", "predicate": "same_minor_planet_group", "object": "4 Vesta"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2012 TC4", "predicate": "same_minor_planet_group", "object": "4179 Toutatis"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4769 Castalia", "predicate": "same_minor_planet_group", "object": "4179 Toutatis"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'_144908__2004_YH32'", "predicate": "not_parent_body", "object": "'KOI_1430'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'_89959__2002_NT7'", "predicate": "not_parent_body", "object": "'Haumea'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4769 Castalia", "predicate": "same_minor_planet_group", "object": "16 Psyche"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2012_TC4'", "predicate": "not_parent_body", "object": "'Saturn'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4769 Castalia", "predicate": "same_minor_planet_group", "object": "(89959) 2002 NT7"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2014_RC'", "predicate": "not_parent_body", "object": "'617_Patroclus'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2060 Chiron", "predicate": "same_asteroid_spectral_type", "object": "2 Pallas"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2012 FN", "predicate": "same_minor_planet_group", "object": "2013 LX28"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "4180 Anaxagoras", "predicate": "preceded_by", "object": "4179 Toutatis"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "589 Croatia", "predicate": "preceded_by", "object": "588 Achilles"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2012 FN", "predicate": "same_minor_planet_group", "object": "2012 TC4"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2060 Chiron", "predicate": "same_minor_planet_group", "object": "16 Psyche"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "253 Mathilde", "predicate": "same_minor_planet_group", "object": "2 Pallas"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2011_KW48'", "predicate": "not_parent_body", "object": "'Jupiter'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "Season of the Harvest", "predicate": "preceded_by", "object": "Season of the Emergence"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2060 Chiron", "predicate": "same_minor_planet_group", "object": "52 Europa"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "Luna 13", "predicate": "preceded_by", "object": "Luna 12"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2014_RC'", "predicate": "not_parent_body", "object": "'Pluto'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3 Juno", "predicate": "same_minor_planet_group", "object": "16 Psyche"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4 Vesta", "predicate": "same_minor_planet_group", "object": "253 Mathilde"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2012_TC4'", "predicate": "not_parent_body", "object": "'Uranus'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3753 Cruithne", "predicate": "same_minor_planet_group", "object": "2060 Chiron"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2004 TN1", "predicate": "same_minor_planet_group", "object": "(89959) 2002 NT7"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2 Pallas", "predicate": "same_minor_planet_group", "object": "3 Juno"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4179 Toutatis", "predicate": "same_minor_planet_group", "object": "2060 Chiron"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "3754 Kathleen", "predicate": "preceded_by", "object": "3753 Cruithne"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4769 Castalia", "predicate": "same_minor_planet_group", "object": "2004 TN1"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2013 LX28", "predicate": "same_minor_planet_group", "object": "(89959) 2002 NT7"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'16_Psyche'", "predicate": "not_parent_body", "object": "'90482_Orcus'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3 Juno", "predicate": "same_minor_planet_group", "object": "4 Vesta"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2012_TC4'", "predicate": "not_parent_body", "object": "'Haumea'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "52 Europa", "predicate": "same_minor_planet_group", "object": "3753 Cruithne"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2060 Chiron", "predicate": "same_minor_planet_group", "object": "(144908) 2004 YH32"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2014_OL339'", "predicate": "not_parent_body", "object": "'Haumea'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2060_Chiron'", "predicate": "not_parent_body", "object": "'KOI_1430'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2004 TN1", "predicate": "same_minor_planet_group", "object": "4179 Toutatis"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4769 Castalia", "predicate": "same_minor_planet_group", "object": "52 Europa"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3 Juno", "predicate": "same_minor_planet_group", "object": "253 Mathilde"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2 Pallas", "predicate": "same_minor_planet_group", "object": "52 Europa"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3753 Cruithne", "predicate": "same_minor_planet_group", "object": "243 Ida"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "52 Europa", "predicate": "same_minor_planet_group", "object": "4179 Toutatis"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4179 Toutatis", "predicate": "same_minor_planet_group", "object": "(89959) 2002 NT7"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2004 TN1", "predicate": "same_minor_planet_group", "object": "2012 FN"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "Season of the Emergence", "predicate": "preceded_by", "object": "Season of the Inundation"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4 Vesta", "predicate": "same_minor_planet_group", "object": "4179 Toutatis"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4179 Toutatis", "predicate": "same_minor_planet_group", "object": "52 Europa"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2060 Chiron", "predicate": "same_minor_planet_group", "object": "4769 Castalia"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2011_KW48'", "predicate": "not_parent_body", "object": "'Neptune'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "Pluto", "predicate": "same_minor_planet_group", "object": "(82158) 2001 FP185"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4769 Castalia", "predicate": "same_minor_planet_group", "object": "4 Vesta"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "486958 Arrokoth", "predicate": "same_minor_planet_group", "object": "Pluto"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3753 Cruithne", "predicate": "same_minor_planet_group", "object": "4 Vesta"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "3753 Cruithne", "predicate": "same_minor_planet_group", "object": "52 Europa"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "486958 Arrokoth", "predicate": "same_minor_planet_group", "object": "(82158) 2001 FP185"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "52 Europa", "predicate": "same_minor_planet_group", "object": "4 Vesta"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2060 Chiron", "predicate": "same_minor_planet_group", "object": "3 Juno"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2_Pallas'", "predicate": "not_parent_body", "object": "'90482_Orcus'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4179 Toutatis", "predicate": "same_minor_planet_group", "object": "3 Juno"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "(144908) 2004 YH32", "predicate": "same_minor_planet_group", "object": "2060 Chiron"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'_144908__2004_YH32'", "predicate": "not_parent_body", "object": "'90482_Orcus'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2012 TC4", "predicate": "same_minor_planet_group", "object": "4769 Castalia"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "244 Sita", "predicate": "preceded_by", "object": "243 Ida"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'253_Mathilde'", "predicate": "not_parent_body", "object": "'Haumea'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2060 Chiron", "predicate": "same_minor_planet_group", "object": "4179 Toutatis"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2014_OL339'", "predicate": "not_parent_body", "object": "'90482_Orcus'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2060_Chiron'", "predicate": "not_parent_body", "object": "'Uranus'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'253_Mathilde'", "predicate": "not_parent_body", "object": "'Jupiter'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2004 TN1", "predicate": "same_minor_planet_group", "object": "2012 TC4"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2060 Chiron", "predicate": "same_minor_planet_group", "object": "3753 Cruithne"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'_89959__2002_NT7'", "predicate": "not_parent_body", "object": "'Neptune'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'243_Ida'", "predicate": "not_parent_body", "object": "'Haumea'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2012 FN", "predicate": "same_minor_planet_group", "object": "(89959) 2002 NT7"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2012 TC4", "predicate": "same_minor_planet_group", "object": "(89959) 2002 NT7"}
+{"category": "Natural and Physical Sciences", "reasoning": "Inverse Function Inference", "subject": "53 Kalypso", "predicate": "preceded_by", "object": "52 Europa"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "253 Mathilde", "predicate": "same_minor_planet_group", "object": "52 Europa"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "4179 Toutatis", "predicate": "same_minor_planet_group", "object": "253 Mathilde"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "16 Psyche", "predicate": "same_minor_planet_group", "object": "243 Ida"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2060 Chiron", "predicate": "same_asteroid_spectral_type", "object": "52 Europa"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "253 Mathilde", "predicate": "same_minor_planet_group", "object": "16 Psyche"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'_89959__2002_NT7'", "predicate": "not_parent_body", "object": "'Saturn'"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "243 Ida", "predicate": "same_minor_planet_group", "object": "4179 Toutatis"}
+{"category": "Natural and Physical Sciences", "reasoning": "Transitive Inference", "subject": "2013 LX28", "predicate": "same_minor_planet_group", "object": "2012 FN"}
+{"category": "Natural and Physical Sciences", "reasoning": "Negation Inference", "subject": "'2014_OL339'", "predicate": "not_parent_body", "object": "'Jupiter'"}

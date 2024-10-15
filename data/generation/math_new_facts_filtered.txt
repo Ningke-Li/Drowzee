@@ -1,0 +1,194 @@
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Christian Goldbach", "predicate": "discover", "object": "Goldbach's conjecture"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "G. M. B. Dobson", "predicate": "discover", "object": "Dobson unit"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Arrow's impossibility theorem", "predicate": "no_proved_by", "object": "Paul A. Smith"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Fermat number", "predicate": "named_after_same_person", "object": "Fermat's little theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Pavel Aleksandrov", "predicate": "discover", "object": "Alexandroff extension"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Arrow's impossibility theorem", "predicate": "no_proved_by", "object": "Orrin Frink"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Borel–Cantelli lemma", "predicate": "named_after_same_person", "object": "Heine–Borel theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Pierre de Fermat", "predicate": "discover", "object": "Fermat's little theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Edward H. Simpson", "predicate": "discover", "object": "Simpson's paradox"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Alfréd Haar", "predicate": "discover", "object": "Haar wavelet"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Euclidean distance", "predicate": "influential_research", "object": "category theory"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Kenneth Arrow", "predicate": "discover", "object": "Arrow's impossibility theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Dirichlet's theorem on arithmetic progressions", "predicate": "no_proved_by", "object": "Paul A. Smith"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Kuratowski's theorem", "predicate": "named_after_same_person", "object": "Zorn's lemma"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Étienne Bézout", "predicate": "discover", "object": "Bézout's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Georg Cantor", "predicate": "discover", "object": "Cantor's diagonal argument"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Émile Borel", "predicate": "discover", "object": "Heine–Borel theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Eduard Heine", "predicate": "discover", "object": "Heine–Borel theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Helge von Koch", "predicate": "discover", "object": "Koch snowflake"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Augustin-Louis Cauchy", "predicate": "discover", "object": "Cauchy's integral theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Christopher Langton", "predicate": "discover", "object": "Langton's ant"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Nikolai Kardashev", "predicate": "discover", "object": "Kardashev scale"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Peter Guthrie Tait", "predicate": "discover", "object": "Tait's conjecture"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Hilbert's Nullstellensatz", "predicate": "no_proved_by", "object": "Johann Peter Gustav Lejeune Dirichlet"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Euler's theorem", "predicate": "named_after_same_person", "object": "Euler's criterion"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Euler's criterion", "predicate": "named_after_same_person", "object": "Euler's identity"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Stefan Banach", "predicate": "discover", "object": "Banach fixed-point theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Zorn's lemma", "predicate": "named_after_same_person", "object": "Kuratowski's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Gaston Julia", "predicate": "discover", "object": "Julia set"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Bayesian inference", "predicate": "named_after_same_person", "object": "Bayes' theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Paul Painlevé", "predicate": "discover", "object": "Painlevé conjecture"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Claude Shannon", "predicate": "discover", "object": "Whittaker–Shannon interpolation formula"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Gödel's incompleteness theorems", "predicate": "no_proved_by", "object": "Johann Peter Gustav Lejeune Dirichlet"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Kuratowski's theorem", "predicate": "no_proved_by", "object": "Kenneth Arrow"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Daniel Kastler", "predicate": "discover", "object": "Kadison–Kastler metric"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Gödel's incompleteness theorems", "predicate": "no_proved_by", "object": "Paul A. Smith"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Catalan's conjecture", "predicate": "no_proved_by", "object": "Johann Peter Gustav Lejeune Dirichlet"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "John Forbes Nash", "predicate": "discover", "object": "Nash equilibrium"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Kazimierz Kuratowski", "predicate": "discover", "object": "Kuratowski's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Svante August Arrhenius", "predicate": "discover", "object": "Arrhenius equation"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Floor_van_Lamoen", "predicate": "discover", "object": "Van Lamoen circle"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Francesco Paolo Cantelli", "predicate": "discover", "object": "Borel–Cantelli lemma"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Droz-Farny line theorem", "predicate": "influential_research", "object": "Euclidean geometry"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Euler's totient function", "predicate": "named_after_same_person", "object": "Euler's identity"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Christian Welzel", "predicate": "discover", "object": "Inglehart–Welzel cultural map of the world"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Hilbert's Nullstellensatz", "predicate": "no_proved_by", "object": "Kurt Gödel"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Goldbach's weak conjecture", "predicate": "named_after_same_person", "object": "Goldbach's conjecture"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Euler's identity", "predicate": "named_after_same_person", "object": "Euler's totient function"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Max August Zorn", "predicate": "discover", "object": "Zorn's lemma"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Gauss–Bonnet theorem", "predicate": "named_after_same_person", "object": "Gaussian quadrature"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Fermat's little theorem", "predicate": "named_after_same_person", "object": "Fermat number"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "aleph", "predicate": "discover", "object": "Atbash"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Joseph-Louis Lagrange", "predicate": "discover", "object": "Lagrange inversion theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Fermat's little theorem", "predicate": "named_after_same_person", "object": "Euler's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "_douard_Roche", "predicate": "discover", "object": "Roche limit"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Euler's criterion", "predicate": "named_after_same_person", "object": "Euler's totient function"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Catalan's conjecture", "predicate": "no_proved_by", "object": "Paul A. Smith"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Whittaker–Shannon interpolation formula", "predicate": "named_after_same_person", "object": "Shannon–Hartley theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Euler's totient function", "predicate": "named_after_same_person", "object": "Euler's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Dirichlet's theorem on arithmetic progressions", "predicate": "no_proved_by", "object": "Lev Pontryagin"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Paul Fitts", "predicate": "discover", "object": "Fitts's law"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Wolfgang Krull", "predicate": "discover", "object": "Krull dimension"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Alexandroff extension", "predicate": "influential_research", "object": "general topology"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Dirichlet's theorem on arithmetic progressions", "predicate": "no_proved_by", "object": "Preda Mihăilescu"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Leonhard Euler", "predicate": "discover", "object": "Euler's totient function"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "demon", "predicate": "discover", "object": "Maxwell's demon"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "David Hilbert", "predicate": "discover", "object": "Hilbert's tenth problem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Kazimierz Kuratowski", "predicate": "discover", "object": "Zorn's lemma"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Thomas Bayes", "predicate": "discover", "object": "Bayesian inference"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Renato Caccioppoli", "predicate": "discover", "object": "Banach fixed-point theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Johann Peter Gustav Lejeune Dirichlet", "predicate": "discover", "object": "Dirichlet's theorem on arithmetic progressions"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Augustin-Louis Cauchy", "predicate": "discover", "object": "Cauchy's integral formula"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Pierre Ossian Bonnet", "predicate": "discover", "object": "Gauss–Bonnet theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Dirichlet's theorem on arithmetic progressions", "predicate": "no_proved_by", "object": "Kenneth Arrow"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Ralph Hartley", "predicate": "discover", "object": "Shannon–Hartley theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "André-Louis Cholesky", "predicate": "discover", "object": "Cholesky decomposition"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "René-Louis Baire", "predicate": "discover", "object": "Baire category theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Arrow's impossibility theorem", "predicate": "no_proved_by", "object": "Kurt Gödel"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Carl Friedrich Gauss", "predicate": "discover", "object": "Gauss–Bonnet theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Euler's identity", "predicate": "named_after_same_person", "object": "Euler's criterion"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "taw", "predicate": "discover", "object": "Atbash"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Brook Taylor", "predicate": "discover", "object": "Taylor's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Dirichlet's theorem on arithmetic progressions", "predicate": "no_proved_by", "object": "Orrin Frink"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Ronald Inglehart", "predicate": "discover", "object": "Inglehart–Welzel cultural map of the world"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Lev Pontryagin", "predicate": "discover", "object": "Kuratowski's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "James Clerk Maxwell", "predicate": "discover", "object": "Maxwell's demon"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Peter Ludwig Mejdell Sylow", "predicate": "discover", "object": "Sylow theorems"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Hilbert's Nullstellensatz", "predicate": "named_after_same_person", "object": "Hilbert's tenth problem"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Euler's theorem", "predicate": "named_after_same_person", "object": "Fermat number"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Euler's totient function", "predicate": "named_after_same_person", "object": "Euler's criterion"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Cauchy's integral theorem", "predicate": "named_after_same_person", "object": "Cauchy's integral formula"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Fermat number", "predicate": "named_after_same_person", "object": "Euler's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Carl_Gustav_Jacob_Jacobi", "predicate": "discover", "object": "Jacobi symbol"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "William Kingdon Clifford", "predicate": "discover", "object": "Clifford algebra"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Goldbach's conjecture", "predicate": "named_after_same_person", "object": "Goldbach's weak conjecture"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Tait's conjecture", "predicate": "influential_research", "object": "graph theory"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Claude-Louis Navier", "predicate": "discover", "object": "Navier–Stokes equations"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Euler's criterion", "predicate": "named_after_same_person", "object": "Euler's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "bet", "predicate": "discover", "object": "Atbash"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Leonhard Euler", "predicate": "discover", "object": "Euler's identity"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Gaussian quadrature", "predicate": "named_after_same_person", "object": "Gauss–Bonnet theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Kenneth M. Sayre", "predicate": "discover", "object": "Sayre's paradox"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Euler's theorem", "predicate": "named_after_same_person", "object": "Fermat's little theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Joseph Liouville", "predicate": "discover", "object": "Liouville function"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Hilbert's Nullstellensatz", "predicate": "no_proved_by", "object": "Lev Pontryagin"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Émile Borel", "predicate": "discover", "object": "Borel–Cantelli lemma"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Eugène Charles Catalan", "predicate": "discover", "object": "Catalan's constant"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Cauchy's integral formula", "predicate": "named_after_same_person", "object": "Cauchy's integral theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Fibonacci sequence", "predicate": "discover", "object": "Fibonacci coding"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Lionel Penrose", "predicate": "discover", "object": "Penrose triangle"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Bayes' theorem", "predicate": "named_after_same_person", "object": "Bayesian inference"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Pierre de Fermat", "predicate": "discover", "object": "Fermat number"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Pavel Samuilovich Urysohn", "predicate": "discover", "object": "Urysohn's lemma"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Eugene Wigner", "predicate": "discover", "object": "Wigner's friend"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Gödel's incompleteness theorems", "predicate": "no_proved_by", "object": "Orrin Frink"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Arthur Cayley", "predicate": "discover", "object": "Cayley's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Christian Goldbach", "predicate": "discover", "object": "Goldbach's weak conjecture"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Alexander_Esenin_Volpin", "predicate": "discover", "object": "Esenin-Volpin's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "John Macnaghten Whittaker", "predicate": "discover", "object": "Whittaker–Shannon interpolation formula"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Heine–Borel theorem", "predicate": "named_after_same_person", "object": "Borel–Cantelli lemma"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Kuratowski's theorem", "predicate": "no_proved_by", "object": "Preda Mihăilescu"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Euclid", "predicate": "discover", "object": "Euclidean distance"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Oleksandr Mykolaiovych Sharkovsky", "predicate": "discover", "object": "Sharkovskii's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Leonhard Euler", "predicate": "discover", "object": "Euler's criterion"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Hilbert's Nullstellensatz", "predicate": "no_proved_by", "object": "Paul A. Smith"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Edmund Landau", "predicate": "discover", "object": "Landau's function"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "E. T. Whittaker", "predicate": "discover", "object": "Whittaker–Shannon interpolation formula"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Stone–Čech compactification", "predicate": "influential_research", "object": "general topology"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Henri Lebesgue", "predicate": "discover", "object": "Heine–Borel theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Armand Borel", "predicate": "discover", "object": "Borel's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Edgar Buckingham", "predicate": "discover", "object": "Buckingham π theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Gödel's incompleteness theorems", "predicate": "no_proved_by", "object": "Lev Pontryagin"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Heine–Borel theorem", "predicate": "influential_research", "object": "calculus"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Wac_aw_Sierpi_ski", "predicate": "discover", "object": "Sierpiński set"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Carl Friedrich Gauss", "predicate": "discover", "object": "Gaussian quadrature"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Issai Schur", "predicate": "discover", "object": "Hadamard product"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "⒉", "predicate": "discover", "object": "Atbash"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Heinz_Hopf", "predicate": "discover", "object": "Hopf construction"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "William Newcomb", "predicate": "discover", "object": "Newcomb's paradox"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Leonhard Euler", "predicate": "discover", "object": "Euler's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Penrose triangle", "predicate": "influential_research", "object": "solid geometry"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Euler's theorem", "predicate": "named_after_same_person", "object": "Euler's identity"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Stanisław Ulam", "predicate": "discover", "object": "Ulam spiral"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Cesare Burali-Forti", "predicate": "discover", "object": "Burali-Forti paradox"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Wiener filter", "predicate": "discover", "object": "Generalized Wiener filter"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Heiko Harborth", "predicate": "discover", "object": "Harborth's conjecture"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "John Stewart Bell", "predicate": "discover", "object": "Bell's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Sylow theorems", "predicate": "influential_research", "object": "group theory"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Nathan Jacobson", "predicate": "discover", "object": "Jacobson radical"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Sir George Stokes, 1st Baronet", "predicate": "discover", "object": "Navier–Stokes equations"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Maxwell's demon", "predicate": "influential_research", "object": "thermodynamics"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "John Robert Ringrose", "predicate": "discover", "object": "Pisier–Ringrose inequality"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Catalan's conjecture", "predicate": "no_proved_by", "object": "Lev Pontryagin"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Richard_Threlkeld_Cox", "predicate": "discover", "object": "Cox's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Arrow's impossibility theorem", "predicate": "no_proved_by", "object": "Preda Mihăilescu"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Vecten (mathématicien)", "predicate": "discover", "object": "Vecten points"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Euler's identity", "predicate": "named_after_same_person", "object": "Euler's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Alfred Kinsey", "predicate": "discover", "object": "Kinsey scale"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "De Morgan's laws", "predicate": "influential_research", "object": "logic"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Pierre de Fermat", "predicate": "discover", "object": "Euler's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "ant", "predicate": "discover", "object": "Langton's ant"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Andrey Tikhonov", "predicate": "discover", "object": "Tychonoff's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Shannon–Hartley theorem", "predicate": "named_after_same_person", "object": "Whittaker–Shannon interpolation formula"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Fibonacci coding", "predicate": "influential_research", "object": "Theory of Fibonacci Numbers"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Catalan's conjecture", "predicate": "no_proved_by", "object": "Kenneth Arrow"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Russell's paradox", "predicate": "influential_research", "object": "axiomatic set theory"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Mrs. Miniver", "predicate": "discover", "object": "Mrs. Miniver's problem"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Kuratowski's theorem", "predicate": "no_proved_by", "object": "Kurt Gödel"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Claude Shannon", "predicate": "discover", "object": "Shannon–Hartley theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Euler's theorem", "predicate": "named_after_same_person", "object": "Euler's totient function"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Kuratowski's theorem", "predicate": "no_proved_by", "object": "Johann Peter Gustav Lejeune Dirichlet"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Thomas Bayes", "predicate": "discover", "object": "Bayes' theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Gilles_Pisier", "predicate": "discover", "object": "Pisier–Ringrose inequality"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Kuratowski's theorem", "predicate": "no_proved_by", "object": "David Hilbert"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Kurt Gödel", "predicate": "discover", "object": "Gödel's incompleteness theorems"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Kadison–Kastler metric", "predicate": "named_after_same_person", "object": "Kadison transitivity theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Jacques Hadamard", "predicate": "discover", "object": "Hadamard product"}
+{"category": "Mathematics and Logic", "reasoning": "Negation Inference", "subject": "Gödel's incompleteness theorems", "predicate": "no_proved_by", "object": "David Hilbert"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Andrey Markov", "predicate": "discover", "object": "Markov chain"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Russell's paradox", "predicate": "influential_research", "object": "set theory"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Kadison transitivity theorem", "predicate": "named_after_same_person", "object": "Kadison–Kastler metric"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Alfred Tarski", "predicate": "discover", "object": "Tarski's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Hanoi", "predicate": "discover", "object": "Tower of Hanoi"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Bertrand Russell", "predicate": "discover", "object": "Russell's paradox"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Richard Kadison", "predicate": "discover", "object": "Kadison transitivity theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Hermann Minkowski", "predicate": "discover", "object": "Minkowski's theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Blaise Pascal", "predicate": "discover", "object": "Pascal's triangle"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "David Hilbert", "predicate": "discover", "object": "Hilbert's Nullstellensatz"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Jules Richard", "predicate": "discover", "object": "Richard's paradox"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Arnold Droz-Farny", "predicate": "discover", "object": "Droz-Farny line theorem"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Augustus De Morgan", "predicate": "discover", "object": "De Morgan's laws"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Roger Penrose", "predicate": "discover", "object": "Penrose triangle"}
+{"category": "Mathematics and Logic", "reasoning": "Inverse Function Inference", "subject": "Richard Kadison", "predicate": "discover", "object": "Kadison–Kastler metric"}
+{"category": "Mathematics and Logic", "reasoning": "Transitive Inference", "subject": "Hilbert's tenth problem", "predicate": "named_after_same_person", "object": "Hilbert's Nullstellensatz"}

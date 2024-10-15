@@ -1,0 +1,334 @@
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "CEP104", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Lemierre's syndrome", "predicate": "similar_symptoms_and_signs", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "KIAA0586", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "COL3A1"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Canavan disease", "predicate": "not_genetically_associated", "object": "JAK2"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "ARL13B", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "KIAA0586"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "TMEM231"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Canavan disease", "predicate": "same_health_specialty", "object": "Autoimmune autonomic ganglionopathy"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marburg virus disease", "predicate": "similar_symptoms_and_signs", "object": "Lemierre's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Tourette syndrome", "predicate": "same_health_specialty", "object": "Rett syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "MKS1", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "CSPP1", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "ITLN1", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Group A streptococcal infection", "predicate": "same_health_specialty", "object": "Q fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Canavan disease", "predicate": "same_health_specialty", "object": "Huntington's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Prader–Willi syndrome", "predicate": "same_health_specialty", "object": "Canavan disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Joubert syndrome", "predicate": "same_health_specialty", "object": "Marfan syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Infectious mononucleosis", "predicate": "same_health_specialty", "object": "Lemierre's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "African trypanosomiasis", "predicate": "same_health_specialty", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Group A streptococcal infection", "predicate": "same_health_specialty", "object": "Infectious mononucleosis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Bell's palsy", "predicate": "same_health_specialty", "object": "Prader–Willi syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "GCKR", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "HTT"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marburg virus disease", "predicate": "similar_symptoms_and_signs", "object": "Infectious mononucleosis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "same_medical_examination", "object": "African trypanosomiasis"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "FCRL3", "predicate": "influenced_by_disease", "object": "Graves' disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Huntington's disease", "predicate": "similar_symptoms_and_signs", "object": "General paresis of the insane"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Cystogastrostomy", "predicate": "same_health_specialty", "object": "Omental infarction"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "BENTA disease", "predicate": "not_genetically_associated", "object": "PHEX"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "CC2D2A", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "CEP290", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "ARMC9"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Canavan disease", "predicate": "not_genetically_associated", "object": "IL23R"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Graves' disease", "predicate": "same_health_specialty", "object": "Sly syndrome"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "ASPA"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Bell's palsy", "predicate": "same_health_specialty", "object": "Morvan's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "similar_symptoms_and_signs", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marburg virus disease", "predicate": "same_medical_examination", "object": "Infectious mononucleosis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Crohn's disease", "predicate": "similar_symptoms_and_signs", "object": "Q fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Lemierre's syndrome", "predicate": "same_medical_examination", "object": "Marburg virus disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Pontiac fever", "predicate": "same_health_specialty", "object": "Q fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Canavan disease", "predicate": "same_health_specialty", "object": "Rett syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Infectious mononucleosis", "predicate": "same_health_specialty", "object": "Q fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "same_medical_examination", "object": "Infectious mononucleosis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Bell's palsy", "predicate": "same_health_specialty", "object": "Canavan disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Tourette syndrome", "predicate": "same_health_specialty", "object": "Bell's palsy"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "BENTA disease", "predicate": "not_genetically_associated", "object": "SMAD3"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Prader–Willi syndrome", "predicate": "same_health_specialty", "object": "Morvan's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "ARMC9", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "IFNGR2", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Canavan disease", "predicate": "same_health_specialty", "object": "Prader–Willi syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "African trypanosomiasis", "predicate": "same_medical_examination", "object": "Marburg virus disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Morvan's syndrome", "predicate": "same_health_specialty", "object": "Bell's palsy"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "CDKL5", "predicate": "influenced_by_disease", "object": "Rett syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "SLITRK1", "predicate": "influenced_by_disease", "object": "Tourette syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Infectious mononucleosis", "predicate": "same_medical_examination", "object": "African trypanosomiasis"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "BENTA disease", "predicate": "not_genetically_associated", "object": "CDKL5"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "ZMIZ1", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Huntington's disease", "predicate": "same_health_specialty", "object": "Autoimmune autonomic ganglionopathy"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "PTPN2", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "PUS10", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "GUSB", "predicate": "influenced_by_disease", "object": "Sly syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Prader–Willi syndrome", "predicate": "same_health_specialty", "object": "Huntington's disease"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "ABO"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rett syndrome", "predicate": "same_health_specialty", "object": "Autoimmune autonomic ganglionopathy"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marburg virus disease", "predicate": "similar_symptoms_and_signs", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "African trypanosomiasis", "predicate": "similar_symptoms_and_signs", "object": "Marburg virus disease"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "TCTN2"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Cushing's syndrome", "predicate": "same_health_specialty", "object": "Canavan disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "African trypanosomiasis", "predicate": "similar_symptoms_and_signs", "object": "General paresis of the insane"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Crohn's disease", "predicate": "similar_symptoms_and_signs", "object": "Huntington's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marburg virus disease", "predicate": "similar_symptoms_and_signs", "object": "African trypanosomiasis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "African trypanosomiasis", "predicate": "same_health_specialty", "object": "Q fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marfan syndrome", "predicate": "same_health_specialty", "object": "Turner syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Omental infarction", "predicate": "same_health_specialty", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "B9D1", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "RPGRIP1L", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Q fever", "predicate": "same_medical_examination", "object": "Lemierre's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Lemierre's syndrome", "predicate": "similar_symptoms_and_signs", "object": "Marburg virus disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Cystogastrostomy", "predicate": "same_health_specialty", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Canavan disease", "predicate": "same_health_specialty", "object": "Morvan's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Canavan disease", "predicate": "same_health_specialty", "object": "Bell's palsy"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "INPP5E"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Sly syndrome", "predicate": "same_health_specialty", "object": "Cushing's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Pontiac fever", "predicate": "same_health_specialty", "object": "Group A streptococcal infection"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "RUNX3", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Infectious mononucleosis", "predicate": "same_health_specialty", "object": "Group A streptococcal infection"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Prader–Willi syndrome", "predicate": "same_health_specialty", "object": "Marfan syndrome"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "SLITRK1"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "CPLANE1"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "IL6", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Cushing's syndrome", "predicate": "same_health_specialty", "object": "Sly syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Tourette syndrome", "predicate": "same_health_specialty", "object": "Canavan disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "FUT2", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rett syndrome", "predicate": "same_health_specialty", "object": "Morvan's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "African trypanosomiasis", "predicate": "same_health_specialty", "object": "Pontiac fever"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "CDKL5"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "IL23R", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Lemierre's syndrome", "predicate": "same_medical_examination", "object": "Q fever"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "AHI1", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "LACC1", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "similar_symptoms_and_signs", "object": "Lemierre's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Lemierre's syndrome", "predicate": "similar_symptoms_and_signs", "object": "Q fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Prader–Willi syndrome", "predicate": "same_health_specialty", "object": "Bell's palsy"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "TMEM67", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Bell's palsy", "predicate": "same_health_specialty", "object": "Tourette syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Infectious mononucleosis", "predicate": "similar_symptoms_and_signs", "object": "Marburg virus disease"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "CEP120"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Crohn's disease", "predicate": "similar_symptoms_and_signs", "object": "Marburg virus disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Bell's palsy", "predicate": "same_health_specialty", "object": "Autoimmune autonomic ganglionopathy"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Q fever", "predicate": "similar_symptoms_and_signs", "object": "Lemierre's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Canavan disease", "predicate": "same_health_specialty", "object": "Sly syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "IL2RA", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "ARL13B"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Lemierre's syndrome", "predicate": "same_medical_examination", "object": "African trypanosomiasis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Infectious mononucleosis", "predicate": "same_medical_examination", "object": "Q fever"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "CEP41", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Q fever", "predicate": "same_health_specialty", "object": "African trypanosomiasis"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "CAPZB", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marburg virus disease", "predicate": "same_health_specialty", "object": "Lemierre's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Crohn's disease", "predicate": "same_health_specialty", "object": "Omental infarction"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Lemierre's syndrome", "predicate": "same_health_specialty", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Lemierre's syndrome", "predicate": "same_health_specialty", "object": "African trypanosomiasis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "African trypanosomiasis", "predicate": "same_health_specialty", "object": "Group A streptococcal infection"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Infectious mononucleosis", "predicate": "same_health_specialty", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Infectious mononucleosis", "predicate": "same_medical_examination", "object": "Marburg virus disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Morvan's syndrome", "predicate": "same_health_specialty", "object": "Huntington's disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "SOCS1", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "BENTA disease", "predicate": "not_genetically_associated", "object": "TMEM231"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "similar_drug_or_therapy_used_for_treatment", "object": "Q fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Pontiac fever", "predicate": "same_health_specialty", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "similar_symptoms_and_signs", "object": "Marburg virus disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "same_health_specialty", "object": "Marburg virus disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Autoimmune autonomic ganglionopathy", "predicate": "same_health_specialty", "object": "Canavan disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Tourette syndrome", "predicate": "same_health_specialty", "object": "Morvan's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "African trypanosomiasis", "predicate": "similar_symptoms_and_signs", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "TMEM237", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Lemierre's syndrome", "predicate": "similar_symptoms_and_signs", "object": "Infectious mononucleosis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Prader–Willi syndrome", "predicate": "same_health_specialty", "object": "Tourette syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "INPP5E", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "THADA", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Joubert syndrome", "predicate": "same_health_specialty", "object": "Prader–Willi syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Crohn's disease", "predicate": "same_health_specialty", "object": "Cystogastrostomy"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "MKS1"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "African trypanosomiasis", "predicate": "same_health_specialty", "object": "Infectious mononucleosis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Huntington's disease", "predicate": "same_health_specialty", "object": "Bell's palsy"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marfan syndrome", "predicate": "same_health_specialty", "object": "Prader–Willi syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Infectious mononucleosis", "predicate": "similar_symptoms_and_signs", "object": "Q fever"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "RPGRIP1L"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "same_health_specialty", "object": "Group A streptococcal infection"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Q fever", "predicate": "similar_symptoms_and_signs", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "MECP2"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Infectious mononucleosis", "predicate": "similar_symptoms_and_signs", "object": "Lemierre's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "MST1", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "same_medical_examination", "object": "Marburg virus disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Lemierre's syndrome", "predicate": "similar_symptoms_and_signs", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Infectious mononucleosis", "predicate": "similar_symptoms_and_signs", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Autoimmune autonomic ganglionopathy", "predicate": "same_health_specialty", "object": "Bell's palsy"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "CEP290"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marburg virus disease", "predicate": "same_health_specialty", "object": "Pontiac fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Lemierre's syndrome", "predicate": "same_health_specialty", "object": "Pontiac fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "same_medical_examination", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Huntington's disease", "predicate": "same_health_specialty", "object": "Rett syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Infectious mononucleosis", "predicate": "same_health_specialty", "object": "Pontiac fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "same_health_specialty", "object": "Infectious mononucleosis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Tourette syndrome", "predicate": "same_health_specialty", "object": "Prader–Willi syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marburg virus disease", "predicate": "same_health_specialty", "object": "African trypanosomiasis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marburg virus disease", "predicate": "similar_symptoms_and_signs", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Infectious mononucleosis", "predicate": "same_medical_examination", "object": "Lemierre's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Crohn's disease", "predicate": "same_medical_examination", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Group A streptococcal infection", "predicate": "same_health_specialty", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "FOXG1", "predicate": "influenced_by_disease", "object": "Rett syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "IMMP2L", "predicate": "influenced_by_disease", "object": "Tourette syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Q fever", "predicate": "same_medical_examination", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Q fever", "predicate": "similar_symptoms_and_signs", "object": "Marburg virus disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Prader–Willi syndrome", "predicate": "same_health_specialty", "object": "Turner syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Q fever", "predicate": "similar_symptoms_and_signs", "object": "African trypanosomiasis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "African trypanosomiasis", "predicate": "same_health_specialty", "object": "Lemierre's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Lemierre's syndrome", "predicate": "same_health_specialty", "object": "Q fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Omental infarction", "predicate": "same_health_specialty", "object": "Cystogastrostomy"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Autoimmune autonomic ganglionopathy", "predicate": "same_health_specialty", "object": "Tourette syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marburg virus disease", "predicate": "same_medical_examination", "object": "Q fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Tourette syndrome", "predicate": "similar_drug_or_therapy_used_for_treatment", "object": "Huntington's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Crohn's disease", "predicate": "similar_symptoms_and_signs", "object": "Infectious mononucleosis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "similar_symptoms_and_signs", "object": "Infectious mononucleosis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Bell's palsy", "predicate": "same_health_specialty", "object": "Huntington's disease"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Canavan disease", "predicate": "not_genetically_associated", "object": "SNRPN"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Infectious mononucleosis", "predicate": "similar_symptoms_and_signs", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "PLCL1", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Infectious mononucleosis", "predicate": "same_health_specialty", "object": "Marburg virus disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "General paresis of the insane", "predicate": "similar_symptoms_and_signs", "object": "African trypanosomiasis"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "PSMB10", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "TMEM67"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "similar_symptoms_and_signs", "object": "Q fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Prader–Willi syndrome", "predicate": "same_health_specialty", "object": "Rett syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Q fever", "predicate": "similar_drug_or_therapy_used_for_treatment", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "CPEB4", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "JAK2", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "CARD11", "predicate": "influenced_by_disease", "object": "BENTA disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "TMEM216", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Lemierre's syndrome", "predicate": "same_medical_examination", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rett syndrome", "predicate": "same_health_specialty", "object": "Tourette syndrome"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "GUSB"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "same_medical_examination", "object": "Lemierre's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Autoimmune autonomic ganglionopathy", "predicate": "same_health_specialty", "object": "Huntington's disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "ASPA", "predicate": "influenced_by_disease", "object": "Canavan disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marburg virus disease", "predicate": "similar_symptoms_and_signs", "object": "Q fever"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "SMAD3", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Morvan's syndrome", "predicate": "same_health_specialty", "object": "Prader–Willi syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marburg virus disease", "predicate": "same_medical_examination", "object": "Lemierre's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Crohn's disease", "predicate": "similar_symptoms_and_signs", "object": "Lemierre's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "TCTN2", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Graves' disease", "predicate": "same_health_specialty", "object": "Canavan disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Turner syndrome", "predicate": "same_health_specialty", "object": "Marfan syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "HTT", "predicate": "influenced_by_disease", "object": "Huntington's disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "FBN1", "predicate": "influenced_by_disease", "object": "Marfan syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Lemierre's syndrome", "predicate": "same_health_specialty", "object": "Infectious mononucleosis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Pontiac fever", "predicate": "same_health_specialty", "object": "Lemierre's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marburg virus disease", "predicate": "same_health_specialty", "object": "Q fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marburg virus disease", "predicate": "same_medical_examination", "object": "African trypanosomiasis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "General paresis of the insane", "predicate": "similar_symptoms_and_signs", "object": "Huntington's disease"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Canavan disease", "predicate": "not_genetically_associated", "object": "MKS1"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "CLN6", "predicate": "influenced_by_disease", "object": "Kufs disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Pontiac fever", "predicate": "same_health_specialty", "object": "Marburg virus disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "similar_symptoms_and_signs", "object": "African trypanosomiasis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Huntington's disease", "predicate": "similar_symptoms_and_signs", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Prader–Willi syndrome", "predicate": "same_health_specialty", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Canavan disease", "predicate": "not_genetically_associated", "object": "GCKR"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "TMEM216"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Q fever", "predicate": "same_health_specialty", "object": "Lemierre's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Q fever", "predicate": "same_health_specialty", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "KATNIP"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Morvan's syndrome", "predicate": "same_health_specialty", "object": "Canavan disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "DENND1B", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Bell's palsy", "predicate": "same_health_specialty", "object": "Rett syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "same_health_specialty", "object": "African trypanosomiasis"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "NELL1", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "African trypanosomiasis", "predicate": "same_medical_examination", "object": "Infectious mononucleosis"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "CEP41"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "African trypanosomiasis", "predicate": "same_medical_examination", "object": "Lemierre's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "same_health_specialty", "object": "Pontiac fever"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "MECP2", "predicate": "influenced_by_disease", "object": "Rett syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "PSORS1C3", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Q fever", "predicate": "same_medical_examination", "object": "Infectious mononucleosis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Group A streptococcal infection", "predicate": "same_health_specialty", "object": "Lemierre's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Huntington's disease", "predicate": "same_health_specialty", "object": "Canavan disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "SP140", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Joubert syndrome", "predicate": "same_health_specialty", "object": "Turner syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rett syndrome", "predicate": "same_health_specialty", "object": "Canavan disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "CDKAL1", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "BENTA disease", "predicate": "not_genetically_associated", "object": "KATNIP"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Q fever", "predicate": "same_health_specialty", "object": "Group A streptococcal infection"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Crohn's disease", "predicate": "similar_symptoms_and_signs", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Huntington's disease", "predicate": "same_health_specialty", "object": "Morvan's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rett syndrome", "predicate": "same_health_specialty", "object": "Bell's palsy"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "ABO", "predicate": "influenced_by_disease", "object": "Graves' disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "ZDHHC23", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marburg virus disease", "predicate": "same_health_specialty", "object": "Infectious mononucleosis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "African trypanosomiasis", "predicate": "similar_symptoms_and_signs", "object": "Q fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "same_health_specialty", "object": "Lemierre's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Crohn's disease", "predicate": "similar_symptoms_and_signs", "object": "African trypanosomiasis"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "B9D2", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Group A streptococcal infection", "predicate": "same_health_specialty", "object": "African trypanosomiasis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Tourette syndrome", "predicate": "same_health_specialty", "object": "Autoimmune autonomic ganglionopathy"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "CEP120", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Q fever", "predicate": "similar_symptoms_and_signs", "object": "Infectious mononucleosis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Tourette syndrome", "predicate": "same_health_specialty", "object": "Huntington's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Sly syndrome", "predicate": "same_health_specialty", "object": "Graves' disease"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "IMMP2L"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "ATG16L1", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marburg virus disease", "predicate": "same_medical_examination", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Q fever", "predicate": "same_health_specialty", "object": "Infectious mononucleosis"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "CPLANE1", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Lemierre's syndrome", "predicate": "same_medical_examination", "object": "Infectious mononucleosis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Prader–Willi syndrome", "predicate": "same_health_specialty", "object": "Autoimmune autonomic ganglionopathy"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "DNMT3A", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "KATNIP", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "STAT3", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Cushing's syndrome", "predicate": "same_health_specialty", "object": "Graves' disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Turner syndrome", "predicate": "same_health_specialty", "object": "Prader–Willi syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Group A streptococcal infection", "predicate": "same_health_specialty", "object": "Marburg virus disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Canavan disease", "predicate": "same_health_specialty", "object": "Graves' disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Pontiac fever", "predicate": "same_health_specialty", "object": "African trypanosomiasis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Autoimmune autonomic ganglionopathy", "predicate": "same_health_specialty", "object": "Prader–Willi syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Autoimmune autonomic ganglionopathy", "predicate": "same_health_specialty", "object": "Morvan's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Canavan disease", "predicate": "same_health_specialty", "object": "Cushing's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Sly syndrome", "predicate": "same_health_specialty", "object": "Canavan disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "PHEX", "predicate": "influenced_by_disease", "object": "Tourette syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "same_health_specialty", "object": "Q fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Group A streptococcal infection", "predicate": "same_health_specialty", "object": "Pontiac fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Graves' disease", "predicate": "same_health_specialty", "object": "Cushing's syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Lemierre's syndrome", "predicate": "same_health_specialty", "object": "Marburg virus disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "TMEM231", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "COL3A1", "predicate": "influenced_by_disease", "object": "Peyronie's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rett syndrome", "predicate": "same_health_specialty", "object": "Prader–Willi syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marburg virus disease", "predicate": "same_health_specialty", "object": "Group A streptococcal infection"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marfan syndrome", "predicate": "same_health_specialty", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Marburg virus disease", "predicate": "same_health_specialty", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Huntington's disease", "predicate": "same_health_specialty", "object": "Tourette syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "SLAMF6", "predicate": "influenced_by_disease", "object": "Graves' disease"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "CEP104"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "SLAMF6"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rett syndrome", "predicate": "same_health_specialty", "object": "Huntington's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Pontiac fever", "predicate": "same_health_specialty", "object": "Infectious mononucleosis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Huntington's disease", "predicate": "same_health_specialty", "object": "Prader–Willi syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "African trypanosomiasis", "predicate": "similar_symptoms_and_signs", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "TNFSF15", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Autoimmune autonomic ganglionopathy", "predicate": "same_health_specialty", "object": "Rett syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Morvan's syndrome", "predicate": "same_health_specialty", "object": "Rett syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "NDN", "predicate": "influenced_by_disease", "object": "Prader–Willi syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Infectious mononucleosis", "predicate": "same_medical_examination", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "FBN1"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Q fever", "predicate": "same_health_specialty", "object": "Marburg virus disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "African trypanosomiasis", "predicate": "same_health_specialty", "object": "Marburg virus disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "African trypanosomiasis", "predicate": "same_medical_examination", "object": "Rocky Mountain spotted fever"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "NOD2", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Q fever", "predicate": "same_health_specialty", "object": "Pontiac fever"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Infectious mononucleosis", "predicate": "same_health_specialty", "object": "African trypanosomiasis"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Canavan disease", "predicate": "same_health_specialty", "object": "Tourette syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Lemierre's syndrome", "predicate": "same_health_specialty", "object": "Group A streptococcal infection"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Q fever", "predicate": "similar_symptoms_and_signs", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "BACH2", "predicate": "influenced_by_disease", "object": "Crohn's disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Q fever", "predicate": "same_medical_examination", "object": "Marburg virus disease"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "SNRPN", "predicate": "influenced_by_disease", "object": "Prader–Willi syndrome"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "TCTN1", "predicate": "influenced_by_disease", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "PHEX"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Morvan's syndrome", "predicate": "same_health_specialty", "object": "Autoimmune autonomic ganglionopathy"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Morvan's syndrome", "predicate": "same_health_specialty", "object": "Tourette syndrome"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Rocky Mountain spotted fever", "predicate": "same_medical_examination", "object": "Q fever"}
+{"category": "Health and Fitness", "reasoning": "Inverse Function Inference", "subject": "TSHR", "predicate": "influenced_by_disease", "object": "Graves' disease"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Turner syndrome", "predicate": "same_health_specialty", "object": "Joubert syndrome"}
+{"category": "Health and Fitness", "reasoning": "Negation Inference", "subject": "Crohn's disease", "predicate": "not_genetically_associated", "object": "TCTN1"}
+{"category": "Health and Fitness", "reasoning": "Transitive Inference", "subject": "Huntington's disease", "predicate": "similar_drug_or_therapy_used_for_treatment", "object": "Tourette syndrome"}
