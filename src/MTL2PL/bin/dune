@@ -1,0 +1,12 @@
+(env (dev (flags (:standard -warn-error -A))))
+  
+
+(executable
+ (public_name MTL2PL)
+ (name main)
+ (libraries menhirLib MTL2PL str unix)
+ (preprocess (pps ppx_deriving.show))
+ )
+
+(menhir (modules parser)) 
+(ocamllex lexer)

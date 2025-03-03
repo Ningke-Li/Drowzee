@@ -1,0 +1,55 @@
+Atom(charles_dickens), 1800; 
+
+Atom(victorian_era), 1900; 
+
+Finally[0, 40](Atom(victorian_era)), 1800;
+
+Globally[30, 50](Atom(victorian_era)), 1800;
+
+Next(Atom(victorian_era)), 1836;
+
+Until[10, 20](Atom(charles_dickens), Atom(victorian_era)), 1800;
+
+Neg(Atom(victorian_era)), 1800;
+
+Conj(Atom(charles_dickens), Atom(victorian_era)), 1900;
+
+Disj(Atom(charles_dickens), Atom(victorian_era)), 1900;
+
+
+At year 1800, did charles_dickens happen?
+Query = charles_dickens_at_1800
+Res   = false
+
+At year 1900, did victorian_era happen?
+Query = victorian_era_at_1900
+Res   = true
+
+Did Event1 finally happen within the time frame of the 0th to the 40th after the year 1800 onwards; where Event1 is victorian_era happen?
+Query = finally_victorian_era_during_0_40_at_1800
+Res   = true
+
+Did Event1 globally happen within the time frame of the 30th to the 50th after the year 1800 onwards; where Event1 is victorian_era happen?
+Query = globally_victorian_era_during_30_50_at_1800
+Res   = false
+
+At year 1836, did Event1 happen in the next year; where Event1 is victorian_era happen?
+Query = next_victorian_era_at_1836
+Res   = true
+
+Did Event1 happen continuously until Event2 started, during the period from the 10th to the 20th after the year 1800 onwards; where Event1 is charles_dickens happen and Event2 is victorian_era happen?
+Query = charles_dickens_until_victorian_era_during_10_20_at_1800
+Res   = false
+
+At year 1800, did Event1 not happen; where Event1 is victorian_era happen?
+Query = neg_victorian_era_at_1800
+Res   = true
+
+At year 1900, did Event1 happen and Event2 also happen; where Event1 is charles_dickens happen and Event2 is victorian_era happen?
+Query = charles_dickens_AND_victorian_era_at_1900
+Res   = false
+
+At year 1900, did Event1 happen or Event2 happen; where Event1 is charles_dickens happen and Event2 is victorian_era happen?
+Query = charles_dickens_OR_victorian_era_at_1900
+Res   = true
+

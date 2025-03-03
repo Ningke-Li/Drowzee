@@ -1,0 +1,18 @@
+:- include('database.pl').
+german_military_administration_in_occupied_france_during_world_war_ii(Start,End) :- begin('german_military_administration_in_occupied_france_during_world_war_ii',_,_,Start), end('german_military_administration_in_occupied_france_during_world_war_ii',_,_,End), Start=<End.
+
+compare_german_military_administration_in_occupied_france_during_world_war_ii(Dir,german_military_administration_in_occupied_france_during_world_war_ii(Start1,_),german_military_administration_in_occupied_france_during_world_war_ii(Start2,_)) :- Start1=<Start2.
+
+generate_neg_german_military_administration_in_occupied_france_during_world_war_ii([]).
+
+generate_neg_german_military_administration_in_occupied_france_during_world_war_ii([(Start,End) | Tail]) :- assert(neg_german_military_administration_in_occupied_france_during_world_war_ii(Start,End)), generate_neg_german_military_administration_in_occupied_france_during_world_war_ii(Tail).
+
+sort_german_military_administration_in_occupied_france_during_world_war_ii(SortedIntervals) :- findall((Start,End),german_military_administration_in_occupied_france_during_world_war_ii(Start,End),UnsortedIntervals), predsort(compare_german_military_administration_in_occupied_france_during_world_war_ii,UnsortedIntervals,SortedIntervals).
+
+generate_neg_german_military_administration_in_occupied_france_during_world_war_ii_aux() :- sort_german_military_administration_in_occupied_france_during_world_war_ii(SortedIntervals), compute_negatedintervals(0,SortedIntervals,NegatedIntervals), generate_neg_german_military_administration_in_occupied_france_during_world_war_ii(NegatedIntervals).
+
+neg_german_military_administration_in_occupied_france_during_world_war_ii_at_2037(Res) :- setof((Start,End),neg_german_military_administration_in_occupied_france_during_world_war_ii(Start,End),AllINtervals), checkvalidity(2037,AllINtervals,Res).
+
+check_query() :- write('Query = neg_german_military_administration_in_occupied_france_during_world_war_ii_at_2037'), (neg_german_military_administration_in_occupied_france_during_world_war_ii_at_2037(true) -> write('\nRes   = true');write('\nRes   = false')).
+?- generate_neg_german_military_administration_in_occupied_france_during_world_war_ii_aux().
+

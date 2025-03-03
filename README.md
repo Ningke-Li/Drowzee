@@ -1,8 +1,10 @@
 ## Drowzee
 
-This is the datasets and source code for OOPSLA-24 paper 'Drowzee: Metamorphic Testing for Fact-Conflicting Hallucination Detection in Large Language Models'.
+This is the datasets and source code for the extension 'Detecting LLM Fact-conflicting Hallucinations Enhanced by Temporal-logic-based Reasoning' and original OOPSLA-24 paper 'Drowzee: Metamorphic Testing for Fact-Conflicting Hallucination Detection in Large Language Models'.
 
 ## Overview
+![Alt text](fig/overview_temporal.jpg)
+
 ![Alt text](fig/drowzee-overview.jpg)
 
 ## Requirements
@@ -10,6 +12,10 @@ This is the datasets and source code for OOPSLA-24 paper 'Drowzee: Metamorphic T
 ```conda create -n <your_env_name> python=3.10```
 
 ```pip install -r requirements.txt```
+
+### Temporal Generation Prerequisites
+- Install [Ocaml](https://ocaml.org/install) and [Dune](https://dune.build/install) on Linux Server.
+- Run the command `dune exec ./bin/main.exe` under the [MTL2PL folder](./src/MTL2PL/).
 
 ### Java Prerequisites
 - Java 8 or higher. The command `java -version` should complete successfully with a line like: `java version "1.8.0_92"`.
@@ -43,7 +49,8 @@ This is the datasets and source code for OOPSLA-24 paper 'Drowzee: Metamorphic T
 - Use the code in `Response Validation` to analyze LLM responses.
 
 ## Dataset Formatted
-The benchmark dataset is in [Drowzee Benchmark](./data/all_dataset.json).
+The non-temporal benchmark dataset is in [Drowzee Benchmark](./data/non-temporal/final_dataset.json).
+The temporal benchmark dataset is in [Temporal Benchmark](./data/temporal/dataset.json)
 
 Each item in the dataset follows the structure below:
 
@@ -69,7 +76,34 @@ Each item in the dataset follows the structure below:
 
 ## Code Structure
 ```
-.
+.MTL2PL
+├── bin
+│   ├── ast_utility.ml
+│   ├── dune
+│   ├── lexer.mll
+│   ├── main.ml
+│   └── parser.mly
+├── database.pl
+├── dataset.json
+├── dune-project
+├── facts.pl
+├── lib
+│   └── dune
+├── MTL2PL.opam
+├── output.txt
+├── paper_examples
+├── pycode
+│   ├── data
+│   ├── qa
+│   ├── facts_generator.py
+│   ├── generate_question_json.py
+│   └── mtl_generator.py
+├── queries.txt
+├── test
+│   ├── dune
+│   └── MTL2PL.ml
+└── test.pl
+.non-temporal
 ├── 0.fact_extraction
 │   ├── category
 │   ├── get_wiki_cat_id.py
@@ -113,6 +147,14 @@ This project makes use of the following open-source projects:
 - [Phrase-BERT](https://github.com/sf-wa-326/phrase-bert-topic-model.git): A model to embed phrases.
 
 ## Reference
+```
+@article{li2025detecting,
+  title={Detecting LLM Fact-conflicting Hallucinations Enhanced by Temporal-logic-based Reasoning},
+  author={Li, Ningke and Song, Yahui and Wang, Kailong and Li, Yuekang and Shi, Ling and Liu, Yi and Wang, Haoyu},
+  journal={arXiv preprint arXiv:2502.13416},
+  year={2025}
+}
+```
 ```
 @article{10.1145/3689776,
     author = {Li, Ningke and Li, Yuekang and Liu, Yi and Shi, Ling and Wang, Kailong and Wang, Haoyu},
